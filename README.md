@@ -1,4 +1,8 @@
 ### Internship assignmnet - graphql-assignmnet
+#### Hosted on Glitch -
+https://prairie-fluffy-bonsai.glitch.me/graphql
+
+
 1. NodeJS project with Apollo GraphQL API. 
 2. The API accept the following mutation:
 ```
