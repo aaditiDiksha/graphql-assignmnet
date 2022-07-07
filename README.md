@@ -1,6 +1,7 @@
 ### Internship assignmnet - graphql-assignmnet
 1. NodeJS project with Apollo GraphQL API. 
 2. The API accept the following mutation:
+```
     mutation {
 	addAccountDetails(data: {
 		user_id: 1,
@@ -27,6 +28,7 @@
 		}
 	}
 }
+```
 3. Allows anonymous users to add and read all data.
 4. Uses the following APIs for data:
   -> [https://ifsc.razorpay.com](https://ifsc.razorpay.com/)
